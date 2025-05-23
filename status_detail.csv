@@ -1,9 +1,0 @@
-status_id,status_name,description,error_group
-1,SUCCESS,Transaction successful,
--1,INVALID_TIME,Payment overdue,customer
--2,LOW_BALANCE,Insufficient funds in customer account. Please add more funds and try the transaction again.,customer
--3,INVALID_BANK,An error occurred. Please try again later.,external
--4,WRONG_PIN_EXCEEDED,Password locked due to multiple incorrect attempts. Choose Forgot Password to unlock.,customer
--5,FAILED_CHARGE,Payment failed,external
--6,KYC_REQUIRED_USER,Please KYC to proceed with transactions,internal
--7,TRANSACTION_LIMITED,Transaction temporarily limited,internal
